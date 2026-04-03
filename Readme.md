@@ -21,6 +21,7 @@ Output binaries are in the output subfolder (if applicable).
 Open the relevant file to view or run the solution.
 
 
+```plaintext
 String/
 ├── IsomorphicString/
 │   ├── main.cpp
@@ -39,3 +40,4 @@ String/
 │   ├── Main.java
 │   └── output/
 └── Readme.md
+```
